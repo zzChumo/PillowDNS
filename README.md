@@ -12,12 +12,12 @@ PillowDNS通过拒绝解析/劫持特定的广告域名到localhost以达到屏�
 PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 
 ## 连接
-通过IP连接：154.12.37.236
-通过DoH连接：https://dns.loccc.top/
-通过DoT连接：dns.loccc.top
+通过IP连接：154.12.37.236    
+通过DoH连接：https://dns.loccc.top/     
+通过DoT连接：dns.loccc.top     
 
 ## 更改DNS
-如果您想要在您的设备上使用PillowDNS，请按照下列方式更改：
+如果您想要在您的设备上使用PillowDNS，请按照下列方式更改您的DNS设置：
 
 ### Linux
 #### Android
@@ -45,6 +45,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 （自行百度，太久没用Windows早忘光了）
 
 ## 捐赠
-PillowDNS是一款非营利甚至非盈利的DNS，完全自费维护。
-如果你想要支持PillowDNS的稳定运行，请捐助我们。
+PillowDNS是一款非营利甚至非盈利的DNS，完全自费维护。     
+如果你想要支持PillowDNS的稳定运行，请捐助我们。     
+     
 ![AliPay](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
