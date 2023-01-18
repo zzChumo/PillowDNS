@@ -14,7 +14,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 ## 连接
 通过IP连接：154.12.37.236    
 通过DoH连接：https://dns.loccc.top/     
-通过DoT连接：dns.loccc.top     
+通过DoT连接：（运营商锁853，挂了）     
 
 ## 更改DNS
 如果您想要在您的设备上使用PillowDNS，请按照下列方式更改您的DNS设置：
