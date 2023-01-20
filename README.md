@@ -14,7 +14,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 ## 连接
 通过IP连接：154.12.37.236    
 通过DoH连接：https://dns.loccc.top/     
-通过DoT连接：（运营商锁853，挂了）     
+通过DoT连接：dot.loccc.top 
 
 ## 更改DNS
 如果您想要在您的设备上使用PillowDNS，请按照下列方式更改您的DNS设置：
@@ -49,3 +49,12 @@ PillowDNS是一款非营利甚至非盈利的DNS，完全自费维护。
 如果你想要支持PillowDNS的稳定运行，请捐助我们。     
      
 ![AliPay](https://zzchumo.github.io/zzChat-Online/alipay.jpg)
+
+## 鸣谢
+[Maggie](https://thz.cool) - 赞助了PillowDNS域名的一半费用。     
+[paperee](https://github.com/paperee) - 提供了DoT服务的反向代理，使PillowDNS成功地通过其他端口提供了DoT服务。   
+[雨云](https://rainyun.com) - 为PillowDNS提供了廉价的云计算支持，虽然没法开853端口就是了。     
+
+---
+
+如果你发现了一个带有广告的域名，请在源页面截图并发送截图及URL至issue页面。
