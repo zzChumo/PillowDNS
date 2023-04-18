@@ -14,7 +14,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 ## 连接
 通过IP连接：154.12.37.236    
 通过DoH连接：https://dns.loccc.top/     
-通过DoT连接：dot.loccc.top 
+通过DoT连接：仍然没有可以用于反代的服务器 
 
 ## 更改DNS
 如果您想要在您的设备上使用PillowDNS，请按照下列方式更改您的DNS设置：
@@ -31,7 +31,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 1. 进入网络和互联网设置。
 2. 将私人DNS改为`私人DNS提供商主机名`，并填入PillowDNS的DoT地址。
 
-##### 更改v2rayNG DNS（仅Android 4+）
+##### 更改v2rayNG DNS（仅Android 4.4+）
 1. 进入v2rayNG设置。
 2. 将VPN DNS改为PillowDNS的IP。
 
