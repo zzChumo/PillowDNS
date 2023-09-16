@@ -5,7 +5,7 @@ PillowDNS是一款支持广告去除的DNS，基于dnsmasq、[doh-server](https:
 通过PillowDNS，你可以绕过营运商的层层封锁，安全、快捷的到达你想去的地方。
 
 ### 广告去除
-PillowDNS通过拒绝解析/劫持特定的广告域名到localhost以达到屏蔽广告的效果。      
+PillowDNS通过拒绝解析/劫持特定的广告域名到127.0.0.1以达到屏蔽广告的效果。      
 你可以在该项目的Release界面中查看新增的屏蔽域名。
 
 ### 安全
