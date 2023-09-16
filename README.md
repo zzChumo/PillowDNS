@@ -40,7 +40,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 
 ### Windows
 1. 打开网络和共享中心-更改适配器设置。
-2. 选择您正在使用的网卡，并在页面中选择属性-Internet协议版本4（TCP/IPV4）。
+2. 选择您正在使用的网卡，并在页面中选择属性-Internet协议版本4（TCP/IPv4）。
 3. 将首选DNS服务器改为PillowDNS的IP。
 
 ## 捐赠
