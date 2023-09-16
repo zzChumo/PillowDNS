@@ -23,7 +23,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 #### Android
 ##### 更改WLAN DNS
 1. 进入WLAN设置。
-2. 长按你正在使用的WLAN，选择修改网络。
+2. 长按您正在使用的WLAN，选择修改网络。
 3. 将IP选项由DHCP改为静态。
 4. 填入路由器网关、路由器分配的原IP和网络前缀长度后，在DNS1内填入PillowDNS的IP，DNS2可留空或填入其他DNS。
 
@@ -38,11 +38,10 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 #### 其他发行版
 1. 使用nano/vim/vi/micro/gedit在root用户下更改`/etc/resolve.conf`。
 
-### Unix
-同其他Linux发行版。
-
 ### Windows
-（自行百度，太久没用Windows早忘光了）
+1. 打开网络和共享中心-更改适配器设置。
+2. 选择您正在使用的网卡，并在页面中选择属性-Internet协议版本4（TCP/IPV4）。
+3. 将首选DNS服务器改为PillowDNS的IP。
 
 ## 捐赠
 PillowDNS是一款非营利甚至非盈利的DNS，完全自费维护。     
