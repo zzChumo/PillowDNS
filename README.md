@@ -36,7 +36,7 @@ PillowDNS支持DoH和DoT。拒绝运营商劫持，让解析更加安全。
 2. 将VPN DNS改为PillowDNS的IP。
 
 #### 其他发行版
-1. 使用nano/vim/vi/micro/gedit在root用户下更改`/etc/resolve.conf`。
+1. 使用您最喜欢的文本编辑器在root用户下更改`/etc/resolve.conf`。
 
 ### Windows
 1. 打开网络和共享中心-更改适配器设置。
